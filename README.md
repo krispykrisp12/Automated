@@ -1,0 +1,2 @@
+# Automated
+Practicing automated testing
